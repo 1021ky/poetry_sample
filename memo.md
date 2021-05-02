@@ -4,6 +4,12 @@
 
 https://python-poetry.org/docs/
 
+## 試した環境
+
+* PC: MacBook Pro (Retina, 13-inch, Early 2015)
+* zsh:5.8 (x86_64-apple-darwin20.0)
+* pyenv: 1.2.26
+
 ## 事前にやったこと
 
 python3.9.1で試したかったので、pyenvで設定
@@ -18,7 +24,7 @@ vaivailx@MacBook-Pro-2 poetry_sample %
 githubでリポジトリを作成して、gitignoreはpython向けに作成した。
 pyenv local 3.9.1って実行したらできる.python-versionってこの.gitignoreだとデフォルトでは無視するようになっているんだね。
 
-## インストール
+## [Installation](https://python-poetry.org/docs/#installation)
 
 書いてあるとおりにインストール
 
